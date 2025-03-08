@@ -1,6 +1,6 @@
 # Twitube
-Twitube is a backend service for a video application that combines features inspired by YouTube and social media.
-Built with Node.js and Express, it offers a scalable solution for managing and streaming video content, secure user authentication, and cloud media storage.
+- Twitube is a backend service for a video application that combines features inspired by YouTube and social media.
+- Built with Node.js and Express, it offers a scalable solution for managing and streaming video content, secure user authentication, and cloud media storage.
 
 ## Features
 - **User Authentication:** Secure login and registration using JWT and bcrypt.
